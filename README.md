@@ -21,7 +21,7 @@ Please contribute. Open source. clone.
 
 ---
 
-# 🎬 Reels Creator Studio
+# 🎬 Open Avatar - Creator Studio
 
 > **The open-source TikTok/Instagram Reels generator. Create viral short-form videos with AI voice, custom avatars, and any AI model. 100% local-first. MIT licensed.**
 
@@ -31,9 +31,9 @@ Made by **Ryan Jordan** • Inspired by **Seth Anderson**
 
 ---
 
-## 🚀 What is Reels Creator?
+## 🚀 What is  Open Avatar Reels Creator?
 
-**Reels Creator Studio** is a full-stack, open-source web application that turns anyone into a video creator. Using **Google's Veo AI** + **Gemini API**, generate cinematic short-form video reels with:
+**Open Avatar Reels Creator Studio** is a full-stack, open-source web application that turns anyone into a video creator. Using **Google's Veo AI** + **Gemini API**, generate cinematic short-form video reels with:
 
 ✨ **AI Video Generation** (text-to-video, frame-to-frame, reference-based)
 🎤 **Voice Synthesis** (ElevenLabs, any voice, any emotion, clone your voice)
@@ -152,7 +152,7 @@ Made by **Ryan Jordan** • Inspired by **Seth Anderson**
 
 ```bash
 # 1. Clone
-git clone https://github.com/ryanjordan11/reelstwinai.git
+git clone https://github.com/ryanjordan11/open-avatar.git
 cd reelstwinai
 
 # 2. Install
@@ -430,7 +430,7 @@ Open source. Local-first. Forever free.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/ryanjordan11/reelstwinai.git
+git clone https://github.com/ryanjordan11/open-avatar.git
 
 # 2. Install & run (90 seconds)
 cd reelstwinai && npm install && npm run dev
@@ -466,7 +466,8 @@ cd reelstwinai && npm install && npm run dev
 **Ready?** Let's go viral.
 
 ```bash
-git clone https://github.com/ryanjordan11/reelstwinai.git
+git clone [https://github.com/ryanjordan11/reelstwinai.git](https://github.com/ryanjordan11/open-avatar.git
+)
 npm install && npm run dev
 ```
 
